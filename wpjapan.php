@@ -3,7 +3,7 @@
 Plugin Name: Japan Tsunami Relief / Red Cross
 Plugin URI: http://redcross.org/
 Description: Adds a header bar to your public site for Red Cross donations
-Version: .02
+Version: .03
 Author: Page.ly - Joshua Strebel
 Author URI: http://page.ly
 
