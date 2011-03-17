@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Japan Tsunami Relief 
-Plugin URI: http://redcross.org
+Plugin Name: Japan Tsunami Relief / Red Cross
+Plugin URI: http://redcross.org/
 Description: Adds a header bar to your public site for Red Cross donations
 Version: .01
 Author: Page.ly - Joshua Strebel
