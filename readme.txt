@@ -1,6 +1,6 @@
 === Japan Red Cross Donations ===
 Contributors: page.ly, joshua.strebel
-Tags: wordpress, donation, red cross, japan, tsunami
+Tags: wordpress, donation, red cross, japan, tsunami, plugin
 
 Adds a styled 75px bar to the top of your site for Red Cross donations to Japan Tsunami relief.
 == Description ==
